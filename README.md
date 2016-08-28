@@ -19,7 +19,7 @@ if you're feeling adventurous.
 
 If you're planning on running multiple stress tests, you might wish to add `export PATH=$PATH:/StressTest` to your `~/.profile` file, which you can do by typing:
 
-`~/.profile`
+`nano ~/.profile`
 
 on most distributions of Linux.
 
