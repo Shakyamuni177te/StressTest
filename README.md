@@ -5,7 +5,7 @@ To run, first include the path of your StressTest directory in your PATH evironm
 
 `export PATH=$PATH:/StressTest`
 
-Then simply change the name of the website to the website you want to test, change the number 10 to the number of times you want to test it (I recommend at least 1000 or a solid stress test) and leave the program running.
+Then simply change the name of the website to the website you want to test, change the number 10 to the number of times you want to test it (I recommend at least 1000 for a solid stress test) and leave the program running.
 
 To edit the file in Linux type:
 
