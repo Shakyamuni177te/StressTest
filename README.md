@@ -1,5 +1,5 @@
 # StressTest
-A basic stress tester for websites. 
+An incredibly basic stress tester for websites. 
 
 To run, first include the stress test variable in your PATH evironment variable. On most versions of Linux, if you've installed in the base directory of your user directory ( `~/' ), this can be achieved as follows:
 
