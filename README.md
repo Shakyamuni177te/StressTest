@@ -39,7 +39,9 @@ http://www.psychocats.net/ubuntu/virtualbox
 
 Go away. Just leave. Now.
 
-If you're planning on running multiple stress tests, you might wish to add `export PATH=$PATH:/StressTest` to your `~/.profile` file, which you can do by typing:
+## It worked yesterday but when I rebooted my computer it stopped working
+
+Ah. Yes. If you're planning on running multiple stress tests, you might wish to add `export PATH=$PATH:/StressTest` to your `~/.profile` file, which you can do by typing:
 
 `nano ~/.profile`
 
