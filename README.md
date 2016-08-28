@@ -10,7 +10,7 @@ https://git-scm.com/download/linux
 Then clone into a directory and navigate to this directory. For this example I have used the base directory:
 
     cd ~
-    git clone http://github.com/Shakyamuni177te/StressTest
+    git clone https://github.com/Shakyamuni177te/StressTest
     cd StressTest
 
 Before we can run the file we may need to add the `StressTest` directory path to our `PATH` evironment variable. On most versions of Linux, if you've installed at the base of your user directory ( `~/` ), this can be achieved as follows:
