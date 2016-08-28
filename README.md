@@ -29,6 +29,16 @@ or
 
 if you're feeling adventurous.
 
+## BUT I DON'T HAVE LINUX
+
+Ugh, do you have Windows? That's ok, just follow this guide:
+
+http://www.psychocats.net/ubuntu/virtualbox
+
+## BUT I DON'T WANT TO INSTALL LINUX!
+
+Go away. Just leave. Now.
+
 If you're planning on running multiple stress tests, you might wish to add `export PATH=$PATH:/StressTest` to your `~/.profile` file, which you can do by typing:
 
 `nano ~/.profile`
