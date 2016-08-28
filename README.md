@@ -17,7 +17,7 @@ Before we can run the file we may need to add StressTest directory path to our P
 
 `export PATH=$PATH:/StressTest`
 
-Then simply change `orderofthemouse.co.uk` and `http://www.orderofthemouse.co.uk` to the URL website you want to test, change the number 10 to the number of times you want to test it (I recommend at least 1000 for a solid stress test) and leave the program running.
+Then simply change `orderofthemouse.co.uk` and `http://www.orderofthemouse.co.uk` to the URL of the website you want to test, change the number 10 to the number of times you want to test it (I recommend at least 1000 for a solid stress test) and leave the program running.
 
 To edit the file in Linux type:
 
